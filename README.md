@@ -17,3 +17,5 @@ Completed user stories:
  
 
 Walkthrough of all user stories:
+
+![ios tipcalc](https://github.com/vrajkumar15/TipCalc_ios/blob/master/tipcalc.gif)
