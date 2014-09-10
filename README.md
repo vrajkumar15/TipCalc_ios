@@ -6,6 +6,7 @@ This app is to calculate the Tip amount and the total bill amount based on the p
 Time spent: 7 hours spent in total
 
 Completed user stories:
+***********************
 
  Required: App calculates the Total amount for all user selections
  
@@ -17,5 +18,6 @@ Completed user stories:
  
 
 Walkthrough of all user stories:
+*******************************
 
 ![ios tipcalc](https://github.com/vrajkumar15/TipCalc_ios/blob/master/tipcalc.gif)
