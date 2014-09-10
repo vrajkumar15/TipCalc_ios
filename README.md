@@ -1,12 +1,14 @@
 Tip Calculator
 ==============
+
+
 This app is to calculate the Tip amount and the total bill amount based on the percentage the user selected. Currently the options are 10%,15%,20%.
 
 
 Time spent: 7 hours spent in total
 
-Completed user stories:
-***********************
+## Completed user stories:
+
 
  Required: App calculates the Total amount for all user selections
  
@@ -17,7 +19,7 @@ Completed user stories:
  Optional: Use locale specific currency and currency thousands separators
  
 
-Walkthrough of all user stories:
-*******************************
+## Walkthrough of all user stories:
+
 
 ![ios tipcalc](https://github.com/vrajkumar15/TipCalc_ios/blob/master/tipcalc.gif)
